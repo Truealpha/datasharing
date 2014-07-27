@@ -1,0 +1,188 @@
+[33mcommit bceb322c44dce4380d3f73ea4dc1ba003e4ed8de[m
+Author: Shriram <shriramsaxena13@gmail.com>
+Date:   Sat Jul 26 16:00:40 2014 +0530
+
+     this is a new file
+
+[33mcommit c31095507a809c5922af2f7d7399e9e797933bfd[m
+Author: Shriram <shriramsaxena13@gmail.com>
+Date:   Mon Jul 21 23:38:55 2014 +0530
+
+    this commit is for the course project
+
+[33mcommit e53857faa461f24c0834f64f791233d602decf5f[m
+Merge: d705f10 9ca2c8b
+Author: Jeff L. <jtleek@gmail.com>
+Date:   Mon Nov 25 08:08:34 2013 -0800
+
+    Merge pull request #9 from nikai3d/patch-1
+    
+    fix typo
+
+[33mcommit 9ca2c8b2ff824e402b98adc016f279d51a143e7c[m
+Author: Nicolas Kaiser <nikai@nikai.net>
+Date:   Mon Nov 25 17:07:30 2013 +0100
+
+    fix typo
+
+[33mcommit d705f10aaee1c266357a4a8834ac6d10b3bae52f[m
+Merge: 4f0cbd6 f005643
+Author: Jeff L. <jtleek@gmail.com>
+Date:   Mon Nov 25 07:15:41 2013 -0800
+
+    Merge pull request #8 from rpglover64/patch-1
+    
+    Update README.md
+
+[33mcommit f00564332957d789a8ff68e23d2d18c1bede6b19[m
+Author: Alex R <rpglover64@gmail.com>
+Date:   Mon Nov 25 10:15:09 2013 -0500
+
+    Update README.md
+    
+    Change stated number of "general principles" in the "tidy data set" section from "three" to "four".
+
+[33mcommit 4f0cbd6ff27c59e458f33579e4ec71b282bb1286[m
+Merge: 21e3722 c6cd77d
+Author: Jeff L. <jtleek@gmail.com>
+Date:   Mon Nov 25 06:38:54 2013 -0800
+
+    Merge pull request #6 from snoldak924/patch-1
+    
+    Update README.md
+
+[33mcommit 21e372228fc059001dcb05b7679ee1fa8b755808[m
+Merge: aa1f8f2 d391b51
+Author: Jeff L. <jtleek@gmail.com>
+Date:   Mon Nov 25 06:38:44 2013 -0800
+
+    Merge pull request #7 from jimktrains/master
+    
+    Fixed links ending in )
+
+[33mcommit d391b5155f567addf7c3e624cef2c43cbc1df03b[m
+Author: Jim Keener <jim@jimkeener.com>
+Date:   Mon Nov 25 09:31:23 2013 -0500
+
+    Fixed links ending in )
+
+[33mcommit c6cd77dbf7ffc1860cdbed68ec0d69032ea45d5b[m
+Author: Sam Oldak <sam@oldaks.com>
+Date:   Mon Nov 25 09:21:23 2013 -0500
+
+    Update README.md
+    
+    typo
+
+[33mcommit aa1f8f2a4b66e7485da1b39cf5b41270911b9565[m
+Merge: 262a91d 3c092f0
+Author: Jeff L. <jtleek@gmail.com>
+Date:   Mon Nov 18 17:08:29 2013 -0800
+
+    Merge pull request #5 from nickreich/master
+    
+    Added section on proper encoding of variables in Excel.
+
+[33mcommit 3c092f00955d6f3e71e25b450645db14c8a7bd4a[m
+Author: Nicholas G Reich <nick@schoolph.umass.edu>
+Date:   Mon Nov 18 14:48:39 2013 -0500
+
+    update NR contribution.
+
+[33mcommit 8ad96ceb8675499c25bca8b734fa1f34dacefaaf[m
+Author: Nicholas G Reich <nick@schoolph.umass.edu>
+Date:   Mon Nov 18 14:47:40 2013 -0500
+
+    added section on encoding information with formatting instead of text (bad!!)
+
+[33mcommit 262a91d9f5a3fd2bbfde7e5cefb17093c37e1aa5[m
+Merge: 041e2a4 a3961cc
+Author: Jeff L. <jtleek@gmail.com>
+Date:   Mon Nov 18 06:06:53 2013 -0800
+
+    Merge pull request #3 from lcolladotor/master
+    
+    Fixed typos, added links
+
+[33mcommit a3961cc21879880784daa5fd89d6fa239b8a5408[m
+Author: lcolladotor <lcollado@jhsph.edu>
+Date:   Fri Nov 15 22:32:37 2013 -0500
+
+    Fixed typos, added links
+
+[33mcommit 041e2a4b1b07e4cf332be331a985e1fd1e9c261e[m
+Merge: 6061754 05b817c
+Author: Jeff L. <jtleek@gmail.com>
+Date:   Thu Nov 14 10:31:57 2013 -0800
+
+    Merge pull request #1 from mmparker/master
+    
+    Replaced "workbook" with "worksheet" where appropriate.
+
+[33mcommit 05b817c568d631ab2b73cdc86ab9f30f745ec6dc[m
+Author: Matt Parker <mattmparker@gmail.com>
+Date:   Thu Nov 14 11:25:41 2013 -0700
+
+    Replaced "workbook" with "worksheet" where appropriate.
+    
+    It's my understanding that for Excel, workbook is the same thing as a file - which can contain multiple worksheets.
+
+[33mcommit 6061754be2df65fab07e0795a01aea4d3a7bcc48[m
+Author: Jeff L. <jtleek@gmail.com>
+Date:   Thu Nov 14 11:16:26 2013 -0500
+
+    Update README.md
+
+[33mcommit 2a6be5b4c0e2e01df6a351fe9518822db2fb7e61[m
+Author: Jeff L. <jtleek@gmail.com>
+Date:   Thu Nov 14 11:14:54 2013 -0500
+
+    Update README.md
+
+[33mcommit 62414d7938c70b8a794690bf80bb44fef6d95064[m
+Author: Jeff L. <jtleek@gmail.com>
+Date:   Thu Nov 14 11:11:41 2013 -0500
+
+    Update README.md
+
+[33mcommit d363e84e2852112a1f4b9fc0db31b8d2acf2769e[m
+Author: Jeff L. <jtleek@gmail.com>
+Date:   Thu Nov 14 11:08:54 2013 -0500
+
+    Update README.md
+
+[33mcommit c3087d9e4046d618d9f4bd9f14dc57d1a7aa3ef4[m
+Author: Jeff L. <jtleek@gmail.com>
+Date:   Thu Nov 14 11:08:18 2013 -0500
+
+    Update README.md
+
+[33mcommit ca1ef35db1fc5d620c4297037f562e097c656cfb[m
+Author: Jeff L. <jtleek@gmail.com>
+Date:   Thu Nov 14 10:48:22 2013 -0500
+
+    Update README.md
+
+[33mcommit 7a41e88dc3cc0ec9067cec4fcb8f603b4c2ab631[m
+Author: Jeff L. <jtleek@gmail.com>
+Date:   Thu Nov 14 10:11:44 2013 -0500
+
+    Update README.md
+
+[33mcommit 8231e2b4352f8a6c228d13666cc0b519446c596d[m
+Author: Jeff L. <jtleek@gmail.com>
+Date:   Thu Nov 14 10:00:16 2013 -0500
+
+    Update README.md
+
+[33mcommit 6b59cf0a063a50a32e047cdea12a364b43c4ec95[m
+Author: Jeff L. <jtleek@gmail.com>
+Date:   Thu Nov 7 08:28:08 2013 -0500
+
+    Update README.md
+
+[33mcommit 1880dc904e1b2774be9c97a7b85efabdb910f974[m
+Author: Jeff L <jtleek@gmail.com>
+Date:   Thu Nov 7 05:25:07 2013 -0800
+
+    Initial commit
